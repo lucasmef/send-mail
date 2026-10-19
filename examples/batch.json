@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "batch_id": "exemplo-ficticio",
+  "messages": [
+    {
+      "external_id": "exemplo-001",
+      "to": "pessoa@example.com",
+      "subject": "Atualização fictícia",
+      "html": "<p>Olá! Esta mensagem é um exemplo fictício.</p>"
+    }
+  ]
+}

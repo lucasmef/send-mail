@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "batch_id": "contatos-2026-09-30",
+  "messages": [
+    {
+      "external_id": "contato-001",
+      "to": "ana@example.com",
+      "to_name": "Ana Souza",
+      "sender_name": "Equipe Exemplo",
+      "subject": "Olá, Ana — vamos conversar?",
+      "html": "<p>Olá, Ana!</p><p>Gostaria de apresentar nossa proposta e saber se podemos conversar nesta semana.</p><p>Qual seria o melhor dia para você?</p>",
+      "text": "Olá, Ana!\n\nGostaria de apresentar nossa proposta e saber se podemos conversar nesta semana.\n\nQual seria o melhor dia para você?"
+    },
+    {
+      "external_id": "contato-002",
+      "to": "bruno@example.com",
+      "to_name": "Bruno Lima",
+      "sender_name": "Equipe Exemplo",
+      "subject": "Olá, Bruno — vamos conversar?",
+      "html": "<p>Olá, Bruno!</p><p>Gostaria de apresentar nossa proposta e saber se podemos conversar nesta semana.</p><p>Qual seria o melhor dia para você?</p>",
+      "text": "Olá, Bruno!\n\nGostaria de apresentar nossa proposta e saber se podemos conversar nesta semana.\n\nQual seria o melhor dia para você?"
+    }
+  ]
+}
